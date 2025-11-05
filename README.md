@@ -1,6 +1,6 @@
 # CareerAtlas - Learning Roadmaps
 
-[![Netlify Status]([![Netlify Status](https://app.netlify.com/projects/learning-road-map/deploys))](https://learning-road-map.netlify.app/)
+[![Netlify Status]([![Netlify Status](https://learningpathbuild.netlify.app/)
 
 ## Overview
 
@@ -11,7 +11,7 @@
 ## Live Demo
 
 Check out the live site here:  
-🔗 [https://your-netlify-deploy-link.netlify.app](https://learning-road-map.netlify.app/)
+🔗 [https://your-netlify-deploy-link.netlify.app](https://learningpathbuild.netlify.app/)
 
 ---
 
