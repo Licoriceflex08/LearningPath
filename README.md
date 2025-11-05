@@ -1,6 +1,6 @@
 # CareerAtlas - Learning Roadmaps
 
-[![Netlify Status](https://learningpathbuild.netlify.app/)
+[Deploy Link](https://learningpathbuild.netlify.app/)
 
 ## Overview
 
